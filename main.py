@@ -7,3 +7,5 @@ if true():
   y = random.ramdint(1,800)
   mo.moveTo(x,y,0.2)
   time.sleep(1) 
+main():
+  
